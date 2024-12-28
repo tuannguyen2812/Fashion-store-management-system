@@ -7,10 +7,10 @@
   The project's primary audience is retail establishments, including clothing boutiques, computer shops, bookshops, and pharmacies. As a result, this project will be an efficient and helpful tool for all types of stores, enabling them to manage their inventory in the best possible way.
   
 <h3 align="left">II. Flowchart</h3>
-<a href="https://drive.google.com/uc?export=view&id=<1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI>"><img src="https://drive.google.com/uc?export=view&id=<1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=<1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI>"><img src="https://drive.google.com/uc?export=view&id=<1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI>" style="width: 663px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <h3 align="left">III. System main functions</h3>
-<a href="https://drive.google.com/uc?export=view&id=<1jcNjvjp5797n47YirETvUk974LqFnGZv>"><img src="https://drive.google.com/uc?export=view&id=<1jcNjvjp5797n47YirETvUk974LqFnGZv>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=<1jcNjvjp5797n47YirETvUk974LqFnGZv>"><img src="https://drive.google.com/uc?export=view&id=<1jcNjvjp5797n47YirETvUk974LqFnGZv>" style="width: 603px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
 
 - checkName: this function separates words in product name; parameter char x.
 - checkId: this function makes sure the ID is not duplicated, parameter char id.
