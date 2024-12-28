@@ -34,6 +34,6 @@ The store management system program has been successfully developed using the pr
 also have an opportunity to develop our cooperation skills and the relationships between members.
 
 <h3 align="left">VI. Contribution</h3>
-- Tran Van Tuong_21070283@vnu.edu.vn
-- Nguyen Luu Anh Tuan_21070364@vnu.edu.vn
-- Phan Quang Trung_21070476@vnu.edu.vn
+- Tran Van Tuong_21070283@vnu.edu.vn<br>
+- Nguyen Luu Anh Tuan_21070364@vnu.edu.vn<br>
+- Phan Quang Trung_21070476@vnu.edu.vn<br>
