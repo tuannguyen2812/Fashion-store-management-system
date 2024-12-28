@@ -33,11 +33,7 @@ the software. However, we have allowed users to return to the main menu, end the
 The store management system program has been successfully developed using the programming language C. This application has scenarios and features that make it simple to add, search, remove, modify, and display items. From this project, we learned how to build an application and create simple functions using C programming language. Additionally, we
 also have an opportunity to develop our cooperation skills and the relationships between members.
 
-<h3 align="left">VI. Demonstration</h3>
-![image](https://github.com/user-attachments/assets/6ba0506a-c80b-43dc-bdd1-c0ab6d6eccb0)
-![image](https://github.com/user-attachments/assets/66b84a38-f6af-452e-beee-db0a07ad8c3d)
-
-<h3 align="left">VII. Contribution</h3>
+<h3 align="left">VI. Contribution</h3>
 Tran Van Tuong       - 21070283@vnu.edu.vn
 Nguyen Luu Anh Tuan  - 21070364@vnu.edu.vn
 Phan Quang Trung     - 21070476@vnu.edu.vn
