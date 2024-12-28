@@ -7,21 +7,22 @@
   The project's primary audience is retail establishments, including clothing boutiques, computer shops, bookshops, and pharmacies. As a result, this project will be an efficient and helpful tool for all types of stores, enabling them to manage their inventory in the best possible way.
   
 <h3 align="left">II. Flowchart</h3>
-![Alt text](https://drive.google.com/file/d/1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI/view?usp=sharing)
+<a href="https://drive.google.com/uc?export=view&id=<1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI>"><img src="https://drive.google.com/uc?export=view&id=<1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <h3 align="left">III. System main functions</h3>
-![Alt text](https://drive.google.com/file/d/1jcNjvjp5797n47YirETvUk974LqFnGZv/view?usp=drive_link)
-- checkName: this function separates word in product name; parameter char x.
+<a href="https://drive.google.com/uc?export=view&id=<1jcNjvjp5797n47YirETvUk974LqFnGZv>"><img src="https://drive.google.com/uc?export=view&id=<1jcNjvjp5797n47YirETvUk974LqFnGZv>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+- checkName: this function separates words in product name; parameter char x.
 - checkId: this function makes sure the ID is not duplicated, parameter char id.
 - gotoxy: this function creates coordinates for interface; parameter int x, y.
-- login: this function asks user to login the system before using, enhance the store security.
+- login: this function asks users to log in to the system before using it, enhancing the store security.
 - menu: this function shows the list of options of functionalities for the user.
-- printLine: this function is used for printing lines, which helps the program interface look more precise and more organized, parameter int x.
+- printLine: this function is used for printing lines, which helps the program interface look more precise and organized, parameter int x.
 - add: this function is used for inputting the contact information, parameter checkId.
-- display: this function is used to display the list of products, which includes all the information of existing products.
+- display: this function is used to display the list of products, which includes all the existing product information.
 - deleteID: this function is used for deleting any products from the product list using their ID.
-- updateById: this function allows user to modify any product they want in the list using the product ID.
-- searchProductByName: this function helps user search the product they need by inserting the product name.
+- updateById: this function allows users to modify any product they want in the list using the product ID.
+- searchProductByName: this function helps users search for the product they need by inserting the product name.
 - sortByPrice: this function is used to display the list of products after sorting them by their price in either ascending order or descending order.
 
 <h3 align="left">IV. Discussion</h3>
