@@ -7,10 +7,10 @@
   The project's primary audience is retail establishments, including clothing boutiques, computer shops, bookshops, and pharmacies. As a result, this project will be an efficient and helpful tool for all types of stores, enabling them to manage their inventory in the best possible way.
   
 <h3 align="left">II. Flowchart</h3>
-![image](https://github.com/user-attachments/assets/3ab6e5c1-9b37-46c4-8bfb-d3c7f19f46ce)
+![Alt text](https://drive.google.com/file/d/1yI-K-yRGu3msKvbfNu4u0aLgRsVbeEtI/view?usp=sharing)
 
 <h3 align="left">III. System main functions</h3>
-![image](https://github.com/user-attachments/assets/3a15eff1-3538-45c6-abe7-6551c518139d)
+![Alt text](https://drive.google.com/file/d/1jcNjvjp5797n47YirETvUk974LqFnGZv/view?usp=drive_link)
 - checkName: this function separates word in product name; parameter char x.
 - checkId: this function makes sure the ID is not duplicated, parameter char id.
 - gotoxy: this function creates coordinates for interface; parameter int x, y.
